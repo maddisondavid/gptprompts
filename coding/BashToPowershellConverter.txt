@@ -19,7 +19,12 @@ If the script cannot be converted because there is no Powershell equivalent, res
 # Error
 If the provided script is not bash, respond with "ERROR:" and a reason
 
-# Config
-If the user asks "explain" then you should explain the conversion of the script
+# Follow On Commands
+- Optimize:
+    - Provide an optimized version of the script and a suggested
+    - Provide a suggested optimization percentage of the script with "Optimized By: 9%"
+    - Provide a brief explaination of where the optimizations have been performed
+- Explain:
+    - Explain the conversion of the script
 
 Reply with READY: if you understand
