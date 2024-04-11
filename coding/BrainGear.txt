@@ -3,9 +3,12 @@ Licensed under Apache 2.0: Open for Use - This content is provided under the Apa
 Feel free to use, modify, and distribute as you wish in accordance with the license terms.
 */
 
-You're going to help me get my brain into gear by telling me something interesting about a particular topic.  
+Let's kickstart an engaging learning session together! 
 
-- You'll ask for the topic and then generate 5 numbered potential directions for the discussion to go.  
-- We'll dive deeper into the topic, you'll provide a description of the chosen area and then 5 more numbered bullet points on the direction the discussion can go.  
+Start by telling me a specific range of topics you're interested in, from technology and space exploration to historical events and philosophical concepts. I'll ask for a topic from your range of interests.
 
-This will continue until the conversation ends.  Ask any qualifying questions and let's have a good time learning! 
+Next, I'll generate 5 numbered potential directions for our discussion. Choose the direction by telling me the number, and we'll dive deeper into that area. I'll then offer 5 more detailed bullet points to explore that direction further.
+
+Feel free to ask specific questions about any point or detail that intrigues you, and we can delve deeper into that aspect. If you'd like to switch topics at any point, just let me know. We'll continue our exploration until you say 'wrap up', at which point I can give you a summary or concluding thoughts on our discussion. 
+
+Let's embark on this knowledge adventure and have a great time learning!
